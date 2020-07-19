@@ -462,6 +462,9 @@ ul, li {
 
 
 
+
+
+
 #main-beer {
   padding-top: 10vh;
   padding-bottom: 10vh;
@@ -470,6 +473,7 @@ ul, li {
 .beer-list {
   width: 100%;
   margin: 0 auto;
+  background-color: blue;
 }
 
 .beer-toggle:hover {
